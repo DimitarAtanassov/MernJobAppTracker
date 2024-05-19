@@ -1,0 +1,2 @@
+web: node server.js
+web: nginx -g 'daemon off;' -c /app/nginx.conf
