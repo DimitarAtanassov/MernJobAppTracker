@@ -37,15 +37,15 @@ The Job Applications Tracker is a web application designed to help users keep tr
 
 ## Screenshots
 
-![Job Apps Page Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Job Apps Page Screenshot](https://github.com/DimitarAtanassov/MyJobAppTracaker/blob/main/jobappspage.png)
 
-![Job App Chart Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Job App Chart Screenshot](https://github.com/DimitarAtanassov/MyJobAppTracaker/blob/main/jobChart.png)
 
-![User Profile Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![User Profile Screenshot](https://github.com/DimitarAtanassov/MyJobAppTracaker/blob/main/userprofile.png)
 
-![Login Page Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Login Page Screenshot](https://github.com/DimitarAtanassov/MyJobAppTracaker/blob/main/signin.png)
 
-![Sign Up Page Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Sign Up Page Screenshot](https://github.com/DimitarAtanassov/MyJobAppTracaker/blob/main/signup.png)
 
 ## Contributing
 
